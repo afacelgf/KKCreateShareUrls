@@ -11,7 +11,7 @@
 1.下载代码
 
 ```
-git clone [https://github.com/ihmily/QuarkPanTool.git](https://github.com/afacelgf/KKCreateShareUrls.git)
+git clone https://github.com/afacelgf/KKCreateShareUrls.git
 ```
 
 2.安装依赖
