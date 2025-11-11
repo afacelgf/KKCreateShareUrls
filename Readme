@@ -1,0 +1,16 @@
+运行步骤：
+01-配置环境
+cd /Users/chensong/Desktop/duyu/脚本/网盘/QuarkPanTool
+python3 -m venv venv
+source venv/bin/activate
+
+02-安装依赖：
+pip install -r requirements.txt
+playwright install firefox
+
+03-需要做分享的文件夹链接写在url.txt文件里，一行一个链接
+
+04-运行
+python3 quark.py
+
+
